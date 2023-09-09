@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/animeshak.github.io/weather-app/static/css/main.abba7883.css",
+    "main.js": "/animeshak.github.io/weather-app/static/js/main.336a0ac5.js",
+    "static/media/sunset2.jpg": "/animeshak.github.io/weather-app/static/media/sunset2.57f1ac59785d3b4f9140.jpg",
+    "index.html": "/animeshak.github.io/weather-app/index.html",
+    "main.abba7883.css.map": "/animeshak.github.io/weather-app/static/css/main.abba7883.css.map",
+    "main.336a0ac5.js.map": "/animeshak.github.io/weather-app/static/js/main.336a0ac5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abba7883.css",
+    "static/js/main.336a0ac5.js"
+  ]
+}
